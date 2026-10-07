@@ -243,7 +243,47 @@ const portfolioData = {
       github: "",
       liveDemo: "",
       featured: false
-    }
+    },
+    {
+  id: 7,
+  title: "Web Design & Development Agency",
+  subtitle: "Creative Digital Agency Website",
+  category: "HTML/CSS",
+  statusBadge: "Completed",
+  image: "assests/projects/web.png",
+  description: "A responsive business website for a web design and development agency, featuring a modern hero section, navigation, call-to-action buttons, and service-focused sections.",
+  technologies: ["HTML5", "CSS3"],
+  features: [
+    "Responsive agency website",
+    "Modern hero section",
+    "Business navigation menu",
+    "Call-to-action buttons",
+    "Web design and development services"
+  ],
+  github: "",
+  liveDemo: "",
+  featured: false
+},
+{
+  id: 7,
+  title: "OTP Verification System",
+  subtitle: "Secure OTP Generator & Checker",
+  category: "HTML/CSS/JS",
+  statusBadge: "Completed",
+  image: "assests/projects/otp.png",
+  description: "A simple and interactive OTP verification system that generates a random OTP and validates user input to ensure secure verification.",
+  technologies: ["HTML5", "CSS3", "JavaScript"],
+  features: [
+    "Random OTP generation",
+    "OTP input validation",
+    "Real-time verification feedback",
+    "Success and error messages",
+    "Simple and responsive user interface"
+  ],
+  github: "",
+  liveDemo: "",
+  featured: true
+},
   ],
 
   // 7. Core Strengths / Why Work With Me
