@@ -265,7 +265,7 @@ const portfolioData = {
   featured: false
 },
 {
-  id: 7,
+  id: 8,
   title: "OTP Verification System",
   subtitle: "Secure OTP Generator & Checker",
   category: "HTML/CSS/JS",
