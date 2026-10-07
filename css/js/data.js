@@ -250,7 +250,7 @@ const portfolioData = {
   subtitle: "Creative Digital Agency Website",
   category: "HTML/CSS",
   statusBadge: "Completed",
-  image: "assests/projects/web.png",
+  image: "assests/projects/cal.PNG",
   description: "A responsive business website for a web design and development agency, featuring a modern hero section, navigation, call-to-action buttons, and service-focused sections.",
   technologies: ["HTML5", "CSS3"],
   features: [
@@ -270,7 +270,7 @@ const portfolioData = {
   subtitle: "Secure OTP Generator & Checker",
   category: "HTML/CSS/JS",
   statusBadge: "Completed",
-  image: "assests/projects/otp.png",
+  image: "assests/projects/otp.PNG",
   description: "A simple and interactive OTP verification system that generates a random OTP and validates user input to ensure secure verification.",
   technologies: ["HTML5", "CSS3", "JavaScript"],
   features: [
