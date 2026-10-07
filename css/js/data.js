@@ -193,7 +193,7 @@ const portfolioData = {
       subtitle: "Interactive Web Calculator",
       category: "React",
       statusBadge: "Completed",
-      image: "assests/projects/cal.png", // અથવા તમારો ઈમેજ પાથ
+      image: "assests/projects/cal.PNG", // અથવા તમારો ઈમેજ પાથ
       description: "A clean and responsive standard calculator web application built with React.js for performing core arithmetic operations with dynamic state management.",
       technologies: ["React.js", "JavaScript", "CSS3"],
       features: [
@@ -250,7 +250,7 @@ const portfolioData = {
   subtitle: "Creative Digital Agency Website",
   category: "HTML/CSS",
   statusBadge: "Completed",
-  image: "assests/projects/cal.PNG",
+  image: "assests/projects/web.png",
   description: "A responsive business website for a web design and development agency, featuring a modern hero section, navigation, call-to-action buttons, and service-focused sections.",
   technologies: ["HTML5", "CSS3"],
   features: [
